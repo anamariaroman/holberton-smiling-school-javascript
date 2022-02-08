@@ -1,4 +1,4 @@
-# Holberton SmileSchool Javascript
+# Holberton Smiling-School Javascript
 
 ## Description
 
